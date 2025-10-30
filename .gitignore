@@ -1,1 +1,29 @@
+# Ignore build artifacts and dependencies
+/target
+/dist
+/build
+/node_modules
+
+# Ignore OS files
 .DS_Store
+Thumbs.db
+
+# Ignore environment and log files
+.env
+*.log
+
+# Ignore editor and IDE settings
+.vscode/
+.idea/
+
+# Ignore compiled binaries or cache
+*.o
+*.exe
+*.out
+
+# Ignore Git LFS metadata backups (just in case)
+*.lfs.tmp
+.git/lfs/
+
+# Ignore Git attribute backups
+.gitattributes.lock
