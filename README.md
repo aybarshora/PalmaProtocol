@@ -1,4 +1,3 @@
-
 # 🌴 Palma Protocol  
 ### Your Palm. Your Key. Proof-of-Human for the Web3 AI Age.
 
@@ -26,8 +25,8 @@ Palm Scan → Feature Extraction → Encrypted Template → On-Chain Proof → A
 - **Zero raw image storage:** only non-invertible templates.  
 - **Open APIs:** developers can request proof-of-human, liveness, or palm-approved transaction consent.  
 
-![Biometric Flow](palm-modals.png)
-![Biometrics Solutions Comparison](biometrics-comparison.png)
+![Biometric Flow](./assets/palm-modals.png)
+![Biometrics Solutions Comparison](./assets/biometrics-comparison.png)
 ---
 
 ## 🧩 Core Components
@@ -66,7 +65,7 @@ Palma = **privacy + presence + programmable trust**
 ---
 
 
-## Roadmap (2025-2026)
+## 📍 Roadmap (2025-2026)
 
 | Phase | Goal |
 |-------|------|
@@ -78,7 +77,7 @@ Palma = **privacy + presence + programmable trust**
 
 ---
 
-## Team & Community
+## 🧑‍🤝‍🧑 Team & Community
 
 We’re builders from 🇰🇿 Kazakhstan working to bring human trust to Web3.  
 Join our mission to make identity simple, private, and human again.
