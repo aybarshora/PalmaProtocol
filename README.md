@@ -83,7 +83,7 @@ We’re builders from 🇰🇿 Kazakhstan working to bring human trust to Web3.
 Join our mission to make identity simple, private, and human again.
 
 - Twitter: [@PalmaProtocol](https://twitter.com/palmaprotocol)  
-- Docs: [whitepaper.pdf](./docs/Palma_Whitepaper.pdf)
+
 
 ---
 📄 [Full Whitepaper (DOCX)](https://docs.google.com/document/d/1NMabarMmBVvq3iqSzwe8HLKdZfK2WlKU/edit?usp=sharing&ouid=103085383854947941682&rtpof=true&sd=true)
